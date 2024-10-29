@@ -1,1 +1,7 @@
 write down the git commands explaining what they stand for inside the answers file you created earlier
+#git push: it is used is used to upload your local repository chages.
+#git pull: it is used to locate and find a repositoty and make the naccessary changes needed to be done.
+#git init: it is a command used to initialize a new git repository.
+#git add .: it is command that stages all cahnges in the current directory
+#git status: to check the working state of directory
+
