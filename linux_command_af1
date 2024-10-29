@@ -1,0 +1,16 @@
+Linux commands
+#ls : list file directory in current directory
+#cd: it is a change directory funtion that works
+#pwd: print working directory ; displays the current directory a user is currently working on
+#mkdir: these funtion is used to create new directory
+#rmdir: remove and empty directory
+#rm: these function deletes files and directories
+#rm -r: these function deletes directories recursively
+#rm -f: these function is forced to delete without any approval or notice of confirmation
+#cp: copy file directories
+#mv: move file directories/it is also used to rename files directories
+#cat: displays content of the a file
+#touch: is to create a new file
+#nano: it opens a file in the nano text editor for editing
+#chmod: it changes the permission of a file or directory which makes the file or directory readable
+# 
