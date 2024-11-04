@@ -4,5 +4,5 @@ these is the answers to the questions.
 #git init: it is a command used to initialize a new git repository.
 #git add .: it is command that stages all cahnges in the current directory
 #git status: to check the working state of directory
-
+# git clone
 
